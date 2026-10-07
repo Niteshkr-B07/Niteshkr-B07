@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi!
 I am Nitesh Kumar 
+
 🚀 B.Tech Data Science Student<br>💻 Python | AI | Machine Learning | Data Science<br>📂 Building real-world projects and solving problems with code<br>🔧 Exploring Git, GitHub & Open Source<br>📚 Always learning, experimenting, and improving<br>🎯 Goal: Become an AI Engineer and build impactful technology.<br>
 
 
